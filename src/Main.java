@@ -21,6 +21,9 @@ public class Main {
         student3.setAge(22);
         student3.setName("Georgi");
 
+        //using constructor with parameters:
+        StudentWithConstructor student4 = new StudentWithConstructor(2132, 33, "Peter");
+
         //printing the data of a Student object to the console:
         System.out.println(student1.getId() + " " + student1.getName() + ", " + student1.getAge());
 
