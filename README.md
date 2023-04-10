@@ -1,9 +1,11 @@
 # java-classes-simple
 
+This program demonstrates creating and using classes in Java.
+
 Required reading:
 https://docs.oracle.com/javase/tutorial/java/javaOO/index.html
 
-Tasks:
+Aditional tasks:
 
 1. Да се създаде клас **Product** с public полета id, name, price, available.
  - Да се създадат няколко обекта **Product** в главната функция и данните им да се въведат от конзолата.
